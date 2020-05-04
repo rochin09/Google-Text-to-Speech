@@ -2,8 +2,11 @@
 Module/Package (gTTS) used to convert text into MP3 audio 
 
 ## Download gTTS module 
-Install gTTS module $ sudo pip install gTTS
+Install gTTS module by executing 
+$ sudo pip install gTTS
+
 pip download gTTS 
+
 pip show gTTS 
 
 ### Install Module in Python3 
