@@ -1,5 +1,5 @@
 # Google-Text-to-Speech
-Module/Package (gTTS) used to convert text into MP3 audio 
+Module/Package (gTTS) used to convert text into MP3 audio with Python 
 
 ## Download gTTS module 
 Install gTTS module by executing 
